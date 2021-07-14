@@ -1,0 +1,2 @@
+(self.webpackChunkmebyn_github_io=self.webpackChunkmebyn_github_io||[]).push([[678],{704:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return i}});var u=t(294);function i(){return u.createElement("h1",null,"Melvin's Personal Website!")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-f39a06aac84568fd4d62.js.map
